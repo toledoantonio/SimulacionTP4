@@ -1,8 +1,8 @@
 namespace SimulacionTP4
 {
-    public partial class Form1 : Form
+    public partial class Montecarlo : Form
     {
-        public Form1()
+        public Montecarlo()
         {
             InitializeComponent();
         }
