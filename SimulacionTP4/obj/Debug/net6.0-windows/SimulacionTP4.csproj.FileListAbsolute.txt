@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\bin\Debug\net6.0-windows\SimulacionTP4.exe
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\bin\Debug\net6.0-windows\SimulacionTP4.deps.json
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\bin\Debug\net6.0-windows\SimulacionTP4.runtimeconfig.json
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\bin\Debug\net6.0-windows\SimulacionTP4.dll
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\bin\Debug\net6.0-windows\SimulacionTP4.pdb
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.Form1.resources
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.csproj.GenerateResource.cache
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.AssemblyInfo.cs
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.dll
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\refint\SimulacionTP4.dll
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.pdb
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\SimulacionTP4.genruntimeconfig.cache
+C:\Users\Usuario\source\Repos\SimulacionTP4\SimulacionTP4\obj\Debug\net6.0-windows\ref\SimulacionTP4.dll
