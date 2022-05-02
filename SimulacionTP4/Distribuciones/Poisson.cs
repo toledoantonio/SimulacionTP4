@@ -34,7 +34,8 @@ namespace SimulacionTP4.Distribuciones
             return x;
         }
 
-
+        /*Creamos numeros aleatorios con el metodo generarPoisson y luego los vamos agregando a la lista segun el tamaño de muestra
+         en ObtenerNumeros*/
         protected override List<object> ObtenerNumeros(int N, double lambda)
         {
             for(int i = 0; i < N; i++)

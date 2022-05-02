@@ -13,6 +13,8 @@ namespace SimulacionTP4.Distribuciones
             throw new NotImplementedException();
         }
 
+        /* Generación de numeros para la distribución normal. Mandamos la media junto con la varianza y la decisión de usar
+         Box Muller (opción 0) o el metodo de convolcuión (opción 1)*/
         protected override List<object> ObtenerNumeros(int N, double var, double avg, int choice)
         {
             switch (choice)
@@ -40,7 +42,6 @@ namespace SimulacionTP4.Distribuciones
                     break;
             }
             return updatedNums;
-
         }
 
         protected override List<object> ObtenerNumeros(int N, double lambda)
